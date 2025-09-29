@@ -29,4 +29,4 @@ while True:
     elif choice == '4':
         break
     else:
-        print("Invalid choice.")
+        print("Invalid choice")
